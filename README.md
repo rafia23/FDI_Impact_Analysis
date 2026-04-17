@@ -17,7 +17,7 @@ This project analyzes the impact of Foreign Direct Investment (FDI) on Banglades
 ## 📂 Datasets Used
 https://www.kaggle.com/datasets/tutenstein/bangladesh-economic-growth-fdi
 https://www.kaggle.com/datasets/salehahmedrony/bangladesh-economic-indicators-1980-2019
-https://www.kaggle.com/datasets/mdmuhtasimbillah/female-employment-vs-socioeconimic-factors)
+https://www.kaggle.com/datasets/mdmuhtasimbillah/female-employment-vs-socioeconimic-factors
 
 ---
 
